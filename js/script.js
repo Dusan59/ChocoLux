@@ -299,7 +299,7 @@ getYear();
         $(this).scrollTop(0);
         setTimeout(function() {
           $('#offerModal').fadeIn();
-        }, 2000);
+        }, 5000);
 
         // Close modal on clicking the close button
         $('#buy').click(function() {
